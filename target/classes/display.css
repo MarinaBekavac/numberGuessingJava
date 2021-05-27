@@ -1,0 +1,16 @@
+.root{
+
+    -fx-background-color: darkgrey;
+}
+
+.title{
+
+    -fx-background-color: darkgrey;
+}
+
+.label{
+
+    -fx-border-color:cadetblue;
+    -fx-background-color: lightgrey;
+
+}
